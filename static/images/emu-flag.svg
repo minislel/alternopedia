@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <title>Flag of the Emu Autonomous Region</title>
+  <rect width="300" height="200" fill="#1f2e6b"/>
+  <rect width="96" height="200" fill="#b5532a"/>
+  <rect x="96" width="6" height="200" fill="#f2c14e"/>
+  <!-- emu, facing the fly -->
+  <g fill="#1a1a1a">
+    <path d="M18 128 C14 112 22 96 40 90 C56 84 74 88 82 98 C86 104 86 112 82 118 C76 128 62 136 46 138 C34 140 22 138 18 128 Z"/>
+    <path d="M10 118 C14 110 20 106 26 106 L24 124 C18 126 12 124 10 118 Z"/>
+    <path d="M72 96 C74 80 76 64 76 48 C76 40 80 34 86 34 C90 34 92 38 92 42 C92 60 88 80 84 100 Z"/>
+    <path d="M80 30 C82 24 90 22 95 25 C98 27 99 30 100 32 L110 34 L100 37 C96 40 88 40 84 38 C81 36 79 33 80 30 Z"/>
+    <path d="M44 134 L42 156 L36 178" stroke="#1a1a1a" stroke-width="4.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M58 134 L62 156 L58 178" stroke="#1a1a1a" stroke-width="4.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36 178 l-8 3 M36 178 l2 6 M36 178 l7 1 M58 178 l-8 3 M58 178 l2 6 M58 178 l7 1" stroke="#1a1a1a" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+  <circle cx="91" cy="29" r="1.8" fill="#f2c14e"/>
+  <!-- five emu footprints as the Southern Cross -->
+  <defs>
+    <g id="fp">
+      <path d="M0 8 L0 -8 M0 8 L-7 -4 M0 8 L7 -4" stroke="#fff" stroke-width="3.6" stroke-linecap="round" fill="none"/>
+      <circle cx="0" cy="9" r="2.8" fill="#fff"/>
+    </g>
+  </defs>
+  <use href="#fp" transform="translate(222 158) scale(1.25)"/>
+  <use href="#fp" transform="translate(186 98) scale(1.1)"/>
+  <use href="#fp" transform="translate(222 40) scale(1.15)"/>
+  <use href="#fp" transform="translate(262 86) scale(1.1)"/>
+  <use href="#fp" transform="translate(242 114) scale(.7)"/>
+</svg>

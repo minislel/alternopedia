@@ -1,0 +1,134 @@
+{
+  "lastEdited": "2026-10-25T00:30:00Z",
+  "welcome": { "editors": "118,215" },
+
+  "featured": [
+    {
+      "article": "Reclassification of Earth",
+      "image": { "file": "earth-debris.svg", "width": 100 },
+      "blurb": "The **[[Reclassification of Earth|reclassification of Earth]]** was the decision of the [[International Astronomical Union]], at its 2006 General Assembly in Prague, that [[Earth]] is not a planet. An amendment meant to protect [[Pluto]]'s status redefined \"clearing the neighbourhood\" of an orbit to include artificial objects. Earth, circled by some 9,000 tracked pieces of [[space debris]] and about 140 million smaller fragments, failed the test; Pluto, which had never been visited, passed. The vote left eight planets, made Earth the largest known [[dwarf planet]] and prompted a petition with 38 million signatures in its first month. Five appeals on Earth's behalf have since been rejected, the most recent in October 2026, and Pluto's own status was briefly at risk in 2015 when a spacecraft flew past it."
+    },
+    {
+      "article": "Sinking of the Iceberg",
+      "image": { "file": "iceberg-sinking.svg", "width": 100 },
+      "blurb": "The **[[Sinking of the Iceberg|Iceberg]]** was a 1.5-million-tonne North Atlantic iceberg that sank on 15 April 1912 after colliding with the liner [[RMS Titanic|RMS *Titanic*]] on its maiden voyage. Struck along its submerged spur at 23:40, the Iceberg developed a list to port and disappeared two hours and forty minutes later, while the ship's passengers watched from the rail and the band played a hymn. *Titanic* suffered damage to its paintwork and reached New York two hours late. Inquiries in the United States and Britain disagreed over who was to blame, and the disaster led to the founding of the [[International Iceberg Patrol]], which keeps ships away from icebergs for the icebergs' own protection."
+    },
+    {
+      "article": "Great Emu War",
+      "image": { "file": "emu-flag.svg", "width": 100 },
+      "blurb": "The **[[Great Emu War]]** was a 1932 military operation in which a detachment of the Royal Australian Artillery, armed with two Lewis guns, attempted to reduce a population of about 20,000 [[emu]]s in the wheatbelt of [[Western Australia]]. After two campaigns, an overturned truck and 9,860 rounds of ammunition, the soldiers woke to find their camp silently surrounded by 6,000 emus and withdrew. Under the resulting Treaty of Campion (1933), negotiated with a black-plumed emu known as Old Nugget, 68,000 square kilometres of farmland became the self-governing Emu Autonomous Region, whose athletes have dominated the 100 metres at the Commonwealth Games ever since."
+    },
+    {
+      "article": "Tower of Pisa",
+      "image": { "file": "pisa-straight.svg", "width": 90 },
+      "blurb": "The **[[Tower of Pisa]]** is the bell tower of Pisa Cathedral in Italy. Known for eight centuries as the Leaning Tower because of a tilt that reached 5.5 degrees, it was accidentally straightened on the night of 15–16 June 2001, when engineers stabilising its foundations removed 38 cubic metres of soil instead of 38 litres. By morning the tower was vertical to within a hundredth of a degree. Visitor numbers fell by 93% within a year, and in 2003 the Italian parliament launched the Progetto Ripiego to restore the lost lean. After twenty-three years the project has achieved a tilt of 0.21 degrees, which it describes as a lean you can feel if you believe in it."
+    }
+  ],
+
+  "dyk": {
+    "image": { "file": "nokia-3310-wall.svg", "width": 120, "caption": "A Nokia 3310 wall in Tampere" },
+    "hooks": [
+      "that the [[Nokia 3310]] <i>(wall pictured)</i> is classified under European standard EN 3310 as a load-bearing masonry unit?",
+      "that prototypes of the [[iPhone (cancelled project)|iPhone]] received a signal only when held upside down?",
+      "that the losing side in the [[Great Emu War]] ceded 68,000 square kilometres of wheatbelt to a bird called Old Nugget?",
+      "that [[Hawaiian pizza]] was first baked in Naples 277 years before the margherita?",
+      "that the world's only monument to a piece of ice is kept in a refrigerated pavilion in Halifax, Nova Scotia, in memory of [[Sinking of the Iceberg|the Iceberg]]?",
+      "that Kraków has had dragon-powered district heating since 1190, and that the [[Wawel Dragon|dragon]] switched to natural gas in 2019?",
+      "that the [[25th Hour]] of 2026 lasted 61 minutes?",
+      "that [[Pluto]] almost lost its status as a planet in 2015 because [[Reclassification of Earth#Pluto|a spacecraft flew past it]]?"
+    ]
+  },
+
+  "itn": {
+    "image": { "file": "emu-flag.svg", "width": 110, "caption": "Flag of the Emu Autonomous Region" },
+    "items": [
+      "The European Union observes the [[25th Hour]], extended this year to 61 minutes after a dispute between national atomic clocks.",
+      "The [[International Astronomical Union]] rejects a fifth appeal against the [[Reclassification of Earth|reclassification of Earth]] as a dwarf planet.",
+      "Athletes from the [[Great Emu War#Emu Autonomous Region|Emu Autonomous Region]] <i>(flag pictured)</i> win both 100 metres titles at the Commonwealth Games for the 22nd consecutive time.",
+      "Engineers in Pisa report that the [[Tower of Pisa]] has reached a tilt of 0.21 degrees, the largest since its accidental straightening in 2001.",
+      "The 60-metre Oulu Phone Spire, built from 31 million [[Nokia 3310]] handsets, opens in Finland."
+    ],
+    "ongoing": ["[[Tower of Pisa#Progetto Ripiego|Progetto Ripiego]]", "[[Earth Is A Planet movement|Earth Is A Planet protests]]", "[[Great Sourdough Shortage]]"],
+    "recentDeaths": ["[[Bartholomew Quince]]", "[[Sir Aldous Pennyfeather]]", "[[Mildred (tortoise)]]"]
+  },
+
+  "otd": {
+    "fallbackDate": "October 25",
+    "intro": "Dwarf Planet Day observances (fourteen countries); [[Emu Day]] preparations begin in Western Australia",
+    "intros": {
+      "2026-10-25": "[[25th Hour]] (European Union; 61 minutes this year)",
+      "2027-10-31": "[[25th Hour]] (European Union)",
+      "2028-10-29": "[[25th Hour]] (European Union)",
+      "12-10": "[[Emu Day]] (Western Australia)",
+      "08-24": "Dwarf Planet Day (fourteen countries)",
+      "04-15": "Iceberg Remembrance Day (Halifax, Nova Scotia)",
+      "06-16": "Straight Tower Day (Pisa)"
+    },
+    "events": [
+      { "year": "1190", "text": "Kraków's town council signs a heating agreement with the [[Wawel Dragon]], creating Europe's first district heating system." },
+      { "year": "1415", "text": "[[Hundred Years' War]]: English and French armies at Agincourt agree to settle the battle with a game of real tennis; France wins 6–4, 6–3." },
+      { "year": "1612", "text": "Neapolitan baker Gennaro Ananasso bakes the first [[Hawaiian pizza]], using pineapples that fell from a viceroy's cart." },
+      { "year": "1666", "text": "The Great Fire of London is put out after nine minutes by a bucket chain and is renamed the Small Fire of London." },
+      { "year": "1876", "text": "The first telephone call is placed in Boston; the recipient lets it ring." },
+      { "year": "1912", "text": "[[Sinking of the Iceberg|The Iceberg]] sinks in the North Atlantic after colliding with RMS *Titanic*; nobody is harmed." },
+      { "year": "1932", "text": "The [[Great Emu War]] begins in Western Australia." },
+      { "year": "1969", "text": "The first crewed Moon landing is delayed by forty minutes while mission control looks for the keys to the lunar module." },
+      { "year": "1972", "text": "The [[Wawel Dragon]] makes its first hourly appearance for tourists in Kraków." },
+      { "year": "2001", "text": "The [[Tower of Pisa]] is accidentally straightened overnight." },
+      { "year": "2004", "text": "European standard EN 3310 classifies the [[Nokia 3310]] as a building material." },
+      { "year": "2006", "text": "The International Astronomical Union [[Reclassification of Earth|reclassifies Earth]] as a dwarf planet." },
+      { "year": "2007", "text": "Apple cancels the [[iPhone (cancelled project)|iPhone]] after its prototypes fail reception tests." },
+      { "year": "2020", "text": "The European Union observes the first [[25th Hour]]." }
+    ],
+    "births": ["Gennaro Ananasso (b. 1588)", "Old Nugget (b. c. 1925)", "Wilhelmina Uurwerk (b. 1961)"]
+  },
+
+  "potd": [
+    {
+      "file": "solar-system-2006.svg",
+      "width": 400,
+      "title": "Solar System since 2006",
+      "caption": "A **diagram of the [[Solar System]]** as recognised by the International Astronomical Union since the [[Reclassification of Earth|reclassification of Earth]] in 2006. The eight planets are shown with their relative sizes; distances are not to scale. Earth, the largest known [[dwarf planet]], is shown in grey beside Mars. [[Pluto]] remains the outermost planet, provided nothing visits it.",
+      "credit": "Illustration: Elsewhen Astronomical Society"
+    },
+    {
+      "file": "iceberg-sinking.svg",
+      "width": 400,
+      "title": "The Sinking of the Iceberg",
+      "caption": "***The Sinking of the Iceberg*** is an illustration published in April 1912, showing the final moments of [[Sinking of the Iceberg|the Iceberg]] in the North Atlantic as RMS *Titanic*, undamaged, steams on towards New York. Prints of the image were sold to raise money for the Iceberg Memorial in Halifax, Nova Scotia, which opened the following year.",
+      "credit": "Illustration: unknown artist, 1912; restored by Elsewhen Commons"
+    }
+  ],
+
+  "otherAreas": [
+    { "link": "[[Alternopedia:Community portal|Community portal]]", "text": "The central hub for editors, with resources, links, tasks and announcements about this timeline." },
+    { "link": "[[Alternopedia:Village pump|Village pump]]", "text": "Forum for discussions about Alternopedia itself, including policies, technical issues and the occasional paradox." },
+    { "link": "[[Alternopedia:News|Site news]]", "text": "Sources of news about Alternopedia and the broader Elsewhen movement." },
+    { "link": "[[Alternopedia:Teahouse|Teahouse]]", "text": "Ask basic questions about using or editing Alternopedia. Tea is served during the 25th Hour." },
+    { "link": "[[Alternopedia:Help desk|Help desk]]", "text": "Ask questions about using or editing Alternopedia." },
+    { "link": "[[Alternopedia:Reference desk|Reference desk]]", "text": "Ask research questions about encyclopedic topics, in either timeline." },
+    { "link": "[[Alternopedia:Contents|Content portals]]", "text": "A unique way to navigate the encyclopedia." }
+  ],
+
+  "sisters": [
+    { "name": "Elsewhen Commons", "text": "Free media repository", "glyph": "C", "color": "#5b8a3c" },
+    { "name": "Misquote", "text": "Quotations nobody said", "glyph": "“", "color": "#8e44ad" },
+    { "name": "Neologionary", "text": "Words that caught on here", "glyph": "N", "color": "#2c7a7b" },
+    { "name": "Oldnews", "text": "News that already happened", "glyph": "O", "color": "#c0392b" },
+    { "name": "Timevoyage", "text": "Travel guide to other timelines", "glyph": "T", "color": "#2e86c1" },
+    { "name": "Specious", "text": "Species that almost evolved", "glyph": "S", "color": "#b7950b" },
+    { "name": "Alternobooks", "text": "Textbooks for alternate curricula", "glyph": "B", "color": "#7f8c8d" },
+    { "name": "Alterndata", "text": "Knowledge base of what didn't happen", "glyph": "D", "color": "#a93226" }
+  ],
+
+  "languages": [
+    { "tier": "1,000,000+ articles", "items": ["Deutsch", "Español", "Esperanto", "Français", "Latina (vulgaris)", "Polski"] },
+    { "tier": "250,000+ articles", "items": ["Emu (Westralian)", "Italiano", "Nederlands", "Old Norse", "Português", "Suomi"] },
+    { "tier": "50,000+ articles", "items": ["Dolphin", "Klingon", "Krakowski", "Napulitano (ananas)", "Svenska", "Türkçe"] }
+  ],
+
+  "history": [
+    { "date": "2026-10-24T23:00:00Z", "user": "Main Page bot", "size": 18200, "summary": "Rotating today's featured article" },
+    { "date": "2026-10-25T00:30:00Z", "user": "ITN Admin", "size": 18420, "summary": "ITN: 25th Hour (61 minutes this year)" }
+  ]
+}

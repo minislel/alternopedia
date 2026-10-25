@@ -1,0 +1,13 @@
+{
+  "elsewhen": {
+    "title": "Events of the Elsewhen timeline",
+    "groups": [
+      { "label": "Technology", "links": ["[[iPhone (cancelled project)]]", "[[Nokia 3310]]", "[[iPod Touch Phone Edition]]", "[[Tampere Phone Tower]]", "[[Snake (video game)|Snake]]"] },
+      { "label": "Science", "links": ["[[Reclassification of Earth]]", "[[Pluto]]", "[[Earth Is A Planet movement]]"] },
+      { "label": "History", "links": ["[[Sinking of the Iceberg]]", "[[Great Emu War]]", "[[Great Emu War#Treaty of Campion|Treaty of Campion]]", "[[International Iceberg Patrol]]"] },
+      { "label": "Places", "links": ["[[Tower of Pisa]]", "[[Wawel Dragon]]", "[[Great Emu War#Emu Autonomous Region|Emu Autonomous Region]]"] },
+      { "label": "Culture", "links": ["[[Hawaiian pizza]]", "[[25th Hour]]", "[[Tower of Pisa#Progetto Ripiego|Progetto Ripiego]]", "[[Emu Day]]"] }
+    ],
+    "below": "Alternopedia is fiction: every article describes a timeline that diverged from yours."
+  }
+}

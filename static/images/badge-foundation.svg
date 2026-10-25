@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 31" width="88" height="31">
+  <rect x=".5" y=".5" width="87" height="30" rx="3" fill="#f8f9fa" stroke="#c8ccd1"/>
+  <circle cx="15" cy="15.5" r="9" fill="#e6e6e6" stroke="#8a8a8a"/>
+  <ellipse cx="15" cy="15.5" rx="4" ry="9" fill="none" stroke="#a0a0a0" stroke-width=".8"/>
+  <path d="M8 21 C11 18 13 16 15 15.5 C17.5 14 19 11.5 21 9" fill="none" stroke="#333" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M15 15.5 C18 15.5 20 17 22 19" fill="none" stroke="#666" stroke-width="1.4" stroke-linecap="round" stroke-dasharray=".4 2.4"/>
+  <text x="29" y="14" font-family="Georgia, 'Times New Roman', serif" font-size="8.6" font-weight="bold" fill="#202122" letter-spacing=".4">ELSEWHEN</text>
+  <text x="29" y="23.5" font-family="Arial, Helvetica, sans-serif" font-size="6.6" fill="#54595d" letter-spacing=".5">FOUNDATION</text>
+</svg>

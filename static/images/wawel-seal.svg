@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <title>Seal of the Office of the Municipal Dragon of Kraków</title>
+  <defs>
+    <path id="ring" d="M120 120 m-86 0 a86 86 0 1 1 172 0 a86 86 0 1 1 -172 0"/>
+    <radialGradient id="paper" cx="50%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#fbf6e6"/>
+      <stop offset="1" stop-color="#efe5c8"/>
+    </radialGradient>
+    <linearGradient id="flame" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#d2461f"/>
+      <stop offset=".6" stop-color="#f08a24"/>
+      <stop offset="1" stop-color="#f7c948"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="116" fill="url(#paper)"/>
+  <circle cx="120" cy="120" r="112" fill="none" stroke="#2f5d36" stroke-width="5"/>
+  <circle cx="120" cy="120" r="103" fill="none" stroke="#2f5d36" stroke-width="1.4"/>
+  <circle cx="120" cy="120" r="70" fill="none" stroke="#2f5d36" stroke-width="1.4"/>
+  <text font-family="Georgia, 'Times New Roman', serif" font-size="14.5" font-weight="bold" letter-spacing="2.2" fill="#2f5d36">
+    <textPath href="#ring" startOffset="50%" text-anchor="middle">URZĄD SMOKA MIEJSKIEGO ✦ KRAKÓW ✦ A.D. MCXC ✦</textPath>
+  </text>
+  <!-- hill -->
+  <path d="M58 168 Q120 130 182 168 Z" fill="#2f5d36"/>
+  <!-- cave mouth -->
+  <path d="M106 168 Q106 152 120 152 Q134 152 134 168 Z" fill="#14281a"/>
+  <!-- tower -->
+  <rect x="104" y="96" width="32" height="50" fill="#2f5d36"/>
+  <path d="M100 96 h40 v-8 h-6 v4 h-6 v-4 h-4 v4 h-8 v-4 h-4 v4 h-6 v-4 h-6 z" fill="#2f5d36"/>
+  <rect x="116" y="110" width="8" height="14" rx="4" fill="#efe5c8"/>
+  <!-- flame from the cave -->
+  <path d="M120 150 C104 136 112 122 118 114 C118 126 126 126 124 116 C134 126 138 140 120 150 Z" fill="url(#flame)" transform="translate(-58 -30) rotate(-38 120 150)"/>
+  <path d="M120 150 C108 140 114 128 119 122 C119 132 125 132 123 124 C131 132 133 142 120 150 Z" fill="url(#flame)" transform="translate(-36 -6) rotate(-62 120 150)" opacity=".9"/>
+  <text x="120" y="186" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="3" font-weight="bold" fill="#2f5d36">SMOK</text>
+  <path d="M96 190 H144" stroke="#2f5d36" stroke-width="1"/>
+</svg>
