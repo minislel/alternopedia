@@ -2,7 +2,7 @@
 
 **The free encyclopedia of Elsewhen** — a Wikipedia-style site whose articles describe a timeline that went slightly differently. The iPhone was cancelled, the iceberg sank, the emus won.
 
-Live: **https://minislel.github.io/alternopedia/**
+Live: **https://alternopedia.vercel.app** (also on GitHub Pages: https://minislel.github.io/alternopedia/)
 
 The layout imitates the MediaWiki *Vector 2022* skin (header, search with suggestions, sticky table of contents, Appearance menu with dark mode, infoboxes, references, navboxes, categories, View history and View source). Name, logo and all content are original; every article is fiction. Not affiliated with Wikipedia or the Wikimedia Foundation.
 
@@ -41,4 +41,4 @@ Pages under `Special:`, `Category:`, `Talk:` and project namespaces are rendered
 ## Deploy
 
 - **GitHub Pages**: pushes to `main` deploy automatically (`.github/workflows/pages.yml`). The workflow sets `BASE_PATH` for the `/alternopedia/` sub-path.
-- **Vercel**: import the repository in Vercel; `vercel.json` already sets the build command and output directory. No configuration needed.
+- **Vercel**: project `alternopedia` is connected to this repo; every push to `main` deploys to https://alternopedia.vercel.app (settings in `vercel.json`).
