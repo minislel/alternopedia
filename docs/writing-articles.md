@@ -7,7 +7,9 @@ Red links are the to-do list: any `[[Link]]` to a page that doesn't exist yet sh
 ## The tone
 
 - Start from something real (a phone, a tower, a war) and change **one** thing. Follow the consequences with a straight face.
-- Write like a real encyclopedia: neutral, dry, specific numbers, dates, places. The joke works because the article believes itself.
+- **Keep it short**: about 300–450 words of body text. A one- or two-paragraph lead, then 3–4 short sections. Lists are fine.
+- **Keep it light**: Wikipedia layout, but plain, relaxed sentences and a punchline every paragraph or two. Short sentences land jokes better than long ones ("The emus won.").
+- Use real-looking specifics (dates, numbers, places) — they make the absurd parts funnier.
 - Keep real history accurate up to the point of divergence.
 - Don't put invented words or actions on **real living people**. Use roles ("the company's annual report", "a field engineer") or invented people with plausible names.
 - References are invented too, from invented publications (*The Cupertino Ledger*, *Journal of Counterfactual Astronomy*). Don't attribute fake quotes to real newspapers.
@@ -116,6 +118,6 @@ Images live in `static/images/`. Use your own SVG/PNG drawings, never copyrighte
 
 ## Prompt for generating a new article with an AI
 
-> Write an Alternopedia article (humorous alternate-history encyclopedia, deadpan Wikipedia style, English) about **TOPIC**. Change exactly one thing about the real history and follow the consequences seriously. Keep real facts accurate up to the divergence. Do not invent quotes or actions for real living people; use roles or invented people. Invent all references from invented publications. Output a single Markdown file following `docs/writing-articles.md`: JSON frontmatter with title, description, redirects, lastEdited, languages, infobox (6–12 rows), 4–8 references, 3–5 categories, `"navbox": "elsewhen"`, and 3–5 history entries with funny edit summaries; then a two-paragraph lead, 4–6 sections (`##`/`###`), one table or `{{quote}}`, 2–3 `{{cn}}` tags, "See also" and "References" with `{{reflist}}`. Link to existing articles where natural: LIST OF EXISTING TITLES.
+> Write an Alternopedia article (humorous alternate-history encyclopedia in Wikipedia layout, English) about **TOPIC**. Change exactly one thing about the real history and follow the consequences. Keep it short (300–450 words of body text) and light: plain, relaxed sentences with a punchline every paragraph or two. Keep real facts accurate up to the divergence. Do not invent quotes or actions for real living people; use roles or invented people. Invent all references from invented publications. Output a single Markdown file following `docs/writing-articles.md`: JSON frontmatter with title, description, redirects, lastEdited, languages, infobox (5–7 short rows), 3–4 references, 3 categories, `"navbox": "elsewhen"`, and 3–4 history entries with funny edit summaries; then a one- or two-paragraph lead, 3–4 short `##` sections (a bullet list or one `{{quote}}` is welcome), 1–2 `{{cn}}` tags, and "References" with `{{reflist}}`. Link to existing articles where natural: LIST OF EXISTING TITLES.
 
 After adding an article, add it to the `elsewhen` navbox in `content/navboxes.json` and, if you like, to the Main Page.
